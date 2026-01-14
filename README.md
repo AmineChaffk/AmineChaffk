@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **ReactJs, GASP**
 
-💬 Ask me about **Java, Spring boot, MySql ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Java, Spring boot, MySql
 
 
  </div>
