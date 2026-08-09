@@ -84,7 +84,6 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 ### 🗄️ Databases
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"></a>
-  <a href="https://www.mariadb.org" target="_blank" title="mariadb"><img src="https://skillicons.dev/icons?i=H2&theme=dark" alt="maridb"></a>
 </div>
 
 ### 🚀 DevOps & Tools
@@ -93,7 +92,6 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"></a>
   <a href="https://github.com" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"></a>
   <a href="https://code.visualstudio.com" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"></a>
-  <a href="https://www.postman.com" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=bruno&theme=dark" alt="Postman"></a>
 </div>
 
 </div>
