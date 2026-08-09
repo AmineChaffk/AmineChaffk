@@ -84,10 +84,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 ### 🗄️ Databases
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"></a>
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"></a>
-  <a href="https://www.mongodb.com" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"></a>
-  <a href="https://www.sqlite.org" target="_blank" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite"></a>
-  <a href="https://firebase.google.com" target="_blank" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase"></a>
+  <a href="https://www.mariadb.org" target="_blank" title="mariadb"><img src="https://skillicons.dev/icons?i=mariadb&theme=dark" alt="maridb"></a>
 </div>
 
 ### 🚀 DevOps & Tools
