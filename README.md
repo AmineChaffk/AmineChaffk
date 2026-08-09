@@ -4,9 +4,9 @@
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
 
-# Mohammed Ezzaim
+# Amine Cheffak
 
-**AI Software Engineer**
+**Full Stack Developer**
 
 Last-year Master's student in Artificial Intelligence and Computer Engineering (IA2I) at FSTG in Marrakech, passionate about software development and artificial intelligence. As a full-stack developer, with front-end and back-end skills, my goal is to design innovative solutions combining traditional technologies and AI to address complex challenges.
 
@@ -15,8 +15,8 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://www.java.com" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"></a>
   <a href="https://spring.io" target="_blank" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot"></a>
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"></a>
-  <a href="https://angular.io" target="_blank" title="react"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Angular"></a>
-  <a href="https://laravel.com" target="_blank" title="php"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="Laravel"></a>
+  <a href="https://react.dev" target="_blank" title="react"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="react"></a>
+  <a href="https://php.com" target="_blank" title="php"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="php"></a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI Agents"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python"></a>
   <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"></a>
 </div>
@@ -29,8 +29,8 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://mohammedezzaim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
 </div>
 
-**📞** +212 6 58 91 33 74  
-**📍** Marrakech, Morocco
+**📞** +212 688 122 680
+**📍** Safi, Morocco
 
 </div>
 
