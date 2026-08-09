@@ -124,7 +124,6 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 
 </div>
 <div align="center">
-### 📫 Connect with Me
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
   <a href="https://ma.linkedin.com/in/amine-cheffak-59b661387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:chaffakamine263@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
@@ -143,7 +142,7 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 
 </div>
 
-<div style="margin: 30px 0;">
+<div style="margin: 30px 0;" align="center">
 
 **⚡ Favorite Quote**: *"First, solve the problem. Then, write the code." - John Johnson*
 
