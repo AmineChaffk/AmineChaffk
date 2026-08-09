@@ -62,9 +62,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://www.java.com" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"></a>
   <a href="https://www.python.org" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"></a>
   <a href="https://www.php.net" target="_blank" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP"></a>
-  <a href="https://kotlinlang.org" target="_blank" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin"></a>
 </div>
 
 ### 🎨 Frontend Development
