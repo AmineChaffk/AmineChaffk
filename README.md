@@ -67,9 +67,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 
 ### 🎨 Frontend Development
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
-  <a href="https://angular.io" target="_blank" title="Angular"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular"></a>
   <a href="https://reactjs.org" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"></a>
-  <a href="https://nextjs.org" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"></a>
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap"></a>
@@ -80,8 +78,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="https://spring.io" target="_blank" title="Spring"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring"></a>
   <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"></a>
-  <a href="https://expressjs.com" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express"></a>
-  <a href="https://laravel.com" target="_blank" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel"></a>
+  <a href="https://laravel.com" target="_blank" title="php"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="php"></a>
 </div>
 
 ### 🗄️ Databases
