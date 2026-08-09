@@ -122,7 +122,7 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header)
 
 
-</div>
+</div align="center">
 
 ### 📫 Connect with Me
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
