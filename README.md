@@ -109,7 +109,7 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 
 <div align="center">
   
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedezzaim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117)
+![Amine GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedezzaim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedezzaim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mohammedezzaim&theme=tokyonight&hide_border=true&background=0D1117)
 
