@@ -122,11 +122,6 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header)
 
 
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header)
-
-</div>
 </div>
 
 ### 📫 Connect with Me
@@ -141,14 +136,14 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 **📍** Safi, Morocco
 
 </div>
-<div align="center">
+<div align="left">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohammedezzaim&color=blueviolet&style=flat&labelColor=000000)
 [![GitHub followers](https://img.shields.io/github/followers/mohammedezzaim.svg?style=flat&logo=github&labelColor=000000&color=blue)](https://github.com/mohammedezzaim?tab=followers)
 
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div style="margin: 30px 0;">
 
 **⚡ Favorite Quote**: *"First, solve the problem. Then, write the code." - John Johnson*
 
