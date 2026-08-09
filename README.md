@@ -135,7 +135,7 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 **📍** Safi, Morocco
 
 </div>
-<div>
+<div align="center">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohammedezzaim&color=blueviolet&style=flat&labelColor=000000)
 [![GitHub followers](https://img.shields.io/github/followers/mohammedezzaim.svg?style=flat&logo=github&labelColor=000000&color=blue)](https://github.com/mohammedezzaim?tab=followers)
