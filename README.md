@@ -93,8 +93,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"></a>
   <a href="https://github.com" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"></a>
   <a href="https://code.visualstudio.com" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"></a>
-  <a href="https://developer.android.com/studio" target="_blank" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio"></a>
-  <a href="https://www.postman.com" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"></a>
+  <a href="https://www.postman.com" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=bruno&theme=dark" alt="Postman"></a>
 </div>
 
 </div>
