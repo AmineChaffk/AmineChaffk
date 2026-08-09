@@ -84,7 +84,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 ### 🗄️ Databases
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"></a>
-  <a href="https://www.mariadb.org" target="_blank" title="mariadb"><img src="https://skillicons.dev/icons?i=mariadb&theme=dark" alt="maridb"></a>
+  <a href="https://www.mariadb.org" target="_blank" title="mariadb"><img src="https://skillicons.dev/icons?i=H2&theme=dark" alt="maridb"></a>
 </div>
 
 ### 🚀 DevOps & Tools
