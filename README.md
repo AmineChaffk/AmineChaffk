@@ -121,18 +121,6 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header)
 
-</div>
-
-## 🎓 Education
-
-<div style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
-
-**2024-2026** (Ongoing) - 🎓 Master's in Artificial Intelligence and Computer Engineering (IA2I) - FSTG Marrakech  
-**2021-2023** - 🎓 Bachelor's Degree in Distributed Computer Systems (SIR) - FSTG Marrakech  
-**2020-2021** - 🎓 University Diploma in Science and Technology (DEUST) - FSTG Marrakech  
-**Baccalaureate** - 🎓 Scientific Baccalaureate in Physical Sciences - Prince Heritier Moulay El Hassan High School, Marrakech  
-
-</div>
 
 <div align="center">
 
@@ -152,8 +140,8 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
   <a href="https://mohammedezzaim.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
 </div>
 
-**📞 Phone**: +212 6 58 91 33 74  
-**📍 Location**: Marrakech, Morocco
+**📞 Phone**: +212 688 122 680
+**📍 Location**: Safi, Morocco
 
 </div>
 
