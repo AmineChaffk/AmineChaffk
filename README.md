@@ -15,9 +15,9 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://www.java.com" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"></a>
   <a href="https://spring.io" target="_blank" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot"></a>
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"></a>
-  <a href="https://angular.io" target="_blank" title="Angular"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Angular"></a>
-  <a href="https://laravel.com" target="_blank" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel"></a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI Agents"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="AI Agents"></a>
+  <a href="https://angular.io" target="_blank" title="react"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Angular"></a>
+  <a href="https://laravel.com" target="_blank" title="php"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="Laravel"></a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI Agents"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python"></a>
   <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"></a>
 </div>
 
