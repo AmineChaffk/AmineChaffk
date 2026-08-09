@@ -8,7 +8,8 @@
 
 **Full Stack Developer**
 
-Last-year Master's student in Artificial Intelligence and Computer Engineering (IA2I) at FSTG in Marrakech, passionate about software development and artificial intelligence. As a full-stack developer, with front-end and back-end skills, my goal is to design innovative solutions combining traditional technologies and AI to address complex challenges.
+I’m Amine Cheffak, a passionate Full-Stack Developer with experience in building modern web applications using Spring Boot and React.js. I have strong skills in backend development with Java, Spring Boot, Spring Security, Spring Data JPA, MySQL and MariaDB, as well as frontend development with React.js and Tailwind CSS. I also have experience using Docker to containerize and manage applications. I’m passionate about software engineering, clean architecture, and building scalable, secure, and efficient solutions to solve real-world problems.
+
 
 ## 🔑 Key Competencies
 <div class="key-competencies" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 15px; margin: 15px 0;">
