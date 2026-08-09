@@ -127,24 +127,20 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header)
 
 </div>
+</div>
 
-## 📫 Let's Connect!
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
-  
+### 📫 Connect with Me
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <a href="https://www.linkedin.com/in/mohammed-ezzaim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mohammed_ezzaim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://github.com/mohammedezzaim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:mohammedezzaim00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mohammedezzaim.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ma.linkedin.com/in/amine-cheffak-59b661387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:chaffakamine263@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/AmineCheffak"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://amine-cheffak.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
 </div>
 
-**📞 Phone**: +212 688 122 680
-**📍 Location**: Safi, Morocco
+**📞** +212 688 122 680
+**📍** Safi, Morocco
 
 </div>
-
 <div align="center">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohammedezzaim&color=blueviolet&style=flat&labelColor=000000)
