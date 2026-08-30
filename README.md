@@ -85,6 +85,7 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
 ### 🗄️ Databases
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"></a>
+  <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="mongodb"></a>
 </div>
 
 ### 🚀 DevOps & Tools
