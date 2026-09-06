@@ -64,6 +64,8 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
   <a href="https://www.python.org" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
   <a href="https://www.php.net" target="_blank" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP"></a>
+  <a href="#" target="_blank" title="typescript"><img src="https://skillicons.dev/icons?i=TypeScript&theme=dark" alt="PHP"></a>
+
 </div>
 
 ### 🎨 Frontend Development
